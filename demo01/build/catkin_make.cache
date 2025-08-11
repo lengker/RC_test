@@ -1,0 +1,2 @@
+helloworld
+-DCATKIN_DEVEL_PREFIX=/home/sgsgg/demo01/devel -DCMAKE_INSTALL_PREFIX=/home/sgsgg/demo01/install -G Unix Makefiles
